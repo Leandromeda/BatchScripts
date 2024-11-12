@@ -1,8 +1,7 @@
 # BatchScripts
 Scripts projetados para serem excutados no CMD do Windows.
 
-![image](https://batch-man.com/wp-content/uploads/2024/04/gif-video.gif)
-
+<img src="https://batch-man.com/wp-content/uploads/2024/04/gif-video.gif" alt="drawing" width="500"/>
 
 ## Índice
 

@@ -5,6 +5,6 @@ Scripts projetados para serem excutados no CMD do Windows.
 
 ## Índice
 
-Filtros de permissão e bloqueio de redes Wi-Fi: [**FiltrosWiFi.bat**](https://github.com/Leandromeda/CMD-BatchScripts/blob/main/FiltrosWiFi.bat)
+[**FiltrosWiFi.bat**](https://github.com/Leandromeda/CMD-BatchScripts/blob/main/FiltrosWiFi.bat) - Filtros de permissão e bloqueio de redes Wi-Fi.
 
-Lê um arquivo e imprime uma linha específica no console: [**LeitorDeLinha.bat**](https://github.com/Leandromeda/BatchScripts/blob/main/LeitorDeLinha.bat)
+[**LeitorDeLinha.bat**](https://github.com/Leandromeda/BatchScripts/blob/main/LeitorDeLinha.bat) - Lê um arquivo e imprime uma linha específica no console.

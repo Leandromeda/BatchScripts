@@ -1,5 +1,5 @@
 # BatchScripts
-Scripts projetados para serem excutados no CMD do Windows.
+Scripts projetados para serem excutados no Windows, no CMD (.bat) e no PowerShell (.ps1).
 
 <img src="https://batch-man.com/wp-content/uploads/2024/04/gif-video.gif" alt="drawing" width="500"/>
 
